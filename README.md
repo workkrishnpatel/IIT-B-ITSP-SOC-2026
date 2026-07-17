@@ -192,15 +192,15 @@ This capstone is the final week of a nine week course on American option pricing
 
 | Week | Topic | Link |
 |---|---|---|
-| Week 1 | Basics of Options | [FILL IN LINK] |
-| Week 2 | Black Scholes | [FILL IN LINK] |
-| Week 3 | Binomial Model | [FILL IN LINK] |
+| Week 1 | Basics of Options | [Week 1](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/blob/main/week%201.md) |
+| Week 2 | Black Scholes | [Week 2]() |
+| Week 3 | Binomial Model | [Week 3](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/blob/main/Week3_Krishn_Patel.ipynb) |
 | Week 4 | Code the Baseline | [github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/tree/main/Week 4 IITB SOC DeepQuant](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/tree/main/Week%204%20IITB%20SOC%20DeepQuant) |
-| Week 5 | Intro to ML | [FILL IN LINK] |
-| Week 6 | Neural Network on Synthetic Data | [FILL IN LINK] |
-| Week 7 | Reinforcement Learning Formulation | [FILL IN LINK] |
-| Week 8 | Train RL | [FILL IN LINK] |
-| Week 9 | Compare and Ship (this repository) | [FILL IN LINK] |
+| Week 5 | Intro to ML | [Week 5]() |
+| Week 6 | Neural Network on Synthetic Data | [Week 6](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/tree/main/Week6_ITSP%20SOC) |
+| Week 7 | Reinforcement Learning Formulation | [Week 7](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/tree/main/Week%207) |
+| Week 8 | Train RL | [week 8](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/tree/main/week%208) |
+| Week 9 | Compare and Ship (this repository) | [Week 9](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/tree/main/week%209) |
 
 ## Future Improvements
 
