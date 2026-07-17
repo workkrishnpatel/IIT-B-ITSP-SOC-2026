@@ -195,7 +195,7 @@ This capstone is the final week of a nine week course on American option pricing
 | Week 1 | Basics of Options | [Week 1](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/blob/main/week%201.md) |
 | Week 2 | Black Scholes | [Week 2](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/tree/main/Week%202) |
 | Week 3 | Binomial Model | [Week 3](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/blob/main/Week3_Krishn_Patel.ipynb) |
-| Week 4 | Code the Baseline | [github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/tree/main/Week 4 IITB SOC DeepQuant](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/tree/main/Week%204%20IITB%20SOC%20DeepQuant) |
+| Week 4 | Code the Baseline | [Week 4](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/tree/main/Week%204%20IITB%20SOC%20DeepQuant) |
 | Week 5 | Intro to ML | [Week 5]() |
 | Week 6 | Neural Network on Synthetic Data | [Week 6](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/tree/main/Week6_ITSP%20SOC) |
 | Week 7 | Reinforcement Learning Formulation | [Week 7](https://github.com/workkrishnpatel/IIT-B-ITSP-SOC-2026/tree/main/Week%207) |
