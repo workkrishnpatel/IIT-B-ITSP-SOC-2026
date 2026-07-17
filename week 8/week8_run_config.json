@@ -1,0 +1,19 @@
+{
+  "env_kwargs": {
+    "S0": 100.0,
+    "K": 100.0,
+    "T": 1.0,
+    "r": 0.03,
+    "sigma": 0.2,
+    "steps": 50
+  },
+  "episodes": 10000,
+  "batch_size": 128,
+  "target_update_every": 250,
+  "epsilon_start": 1.0,
+  "epsilon_min": 0.05,
+  "epsilon_decay": 0.999,
+  "lr": 0.001,
+  "seed": 42,
+  "eval_episodes": 5000
+}
